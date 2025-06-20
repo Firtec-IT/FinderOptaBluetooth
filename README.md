@@ -49,7 +49,7 @@ I LED integrati nel Finder Opta (`LED_D0`, `LED_D1`) vengono utilizzati come ind
 
 Per compilare e caricare questo sketch, avrai bisogno di:
 
-* Una scheda **Finder Opta** con modulo BT.
+* Un dispositivo **Finder Opta** con modulo BT (OPTA ADVANCED 8A.04.9.024.8320).
 * La libreria **ArduinoBLE** installata nel tuo IDE Arduino.
 * L'ambiente di sviluppo **Arduino IDE**.
 
